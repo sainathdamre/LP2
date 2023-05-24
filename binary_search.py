@@ -21,6 +21,6 @@ target = 38
 index = binary_search(array, target)
 
 if index != -1:
-    print("Target element ",target ,"found at index", index)
+    print("Target element ",target ,"found at index", index,"\n")
 else:
     print("Target element not found in the array.")
